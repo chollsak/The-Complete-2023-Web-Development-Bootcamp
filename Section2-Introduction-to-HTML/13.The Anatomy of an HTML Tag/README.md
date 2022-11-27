@@ -5,6 +5,8 @@
         <h2>This is a level 2 heading created using the h2 tag.</h1>
         <h3>This is a level 3 heading created using the h3 tag.</h1>
         <h4>This is a level 4 heading created using the h4 tag.</h1><br>
+        
+        <!== br tag is breaking line ==>
 
         <h3>This is how create a line using hr tag.</h3>   
         <hr size="3" noshade>

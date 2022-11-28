@@ -2,7 +2,7 @@
 ***Date: 28/11/2022***</br>
 
 html with burger......</br>
-      ```<!DOCTYPE html>
+      <!DOCTYPE html>
       <bun topping="sesame">
           <tomato>
               <pickle></pickle>
@@ -13,4 +13,4 @@ html with burger......</br>
                   <meat></meat>
               </sauce>
           </lettuce>
-      </bun>```
+      </bun>

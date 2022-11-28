@@ -1,1 +1,1 @@
-***link: https://chollsitever1.web.app/***
+***Pure HTML website link: https://chollsitever1.web.app/***

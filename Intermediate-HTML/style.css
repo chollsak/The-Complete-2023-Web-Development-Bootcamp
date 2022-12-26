@@ -1,0 +1,27 @@
+body {
+    background-color: #FFAA33;
+    font-family: Arial;
+    font-size: medium;
+}
+
+hr {
+    background-color: #ff9c04;
+    border-style:none;
+    border-top-style: dotted;
+    border-width: 5px;
+    border-color: white;
+    
+    width: 5%;
+}
+
+h1 {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
